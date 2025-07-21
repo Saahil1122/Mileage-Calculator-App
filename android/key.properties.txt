@@ -1,0 +1,4 @@
+storePassword=sahil@1122
+keyPassword=sahi@1122
+keyAlias=my-key-alias
+storeFile=C:\Sahil\Learning\Task\Mileage Calculator App\task\android\app\my-release-key.jks
