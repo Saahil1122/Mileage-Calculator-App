@@ -29,7 +29,7 @@ No empty, zero, or negative values allowed
 Error messages shown for invalid inputs
 
 📸 Screenshots
-Final Output(assets\screenshot\final_output.jpg)
+Final Output(assets/screenshot/final_output.jpg)
 Dark Mode(assets\screenshot\dark_mode_output.jpg)
 Light Mode(assets\screenshot\light_mode_output.jpg)
 
